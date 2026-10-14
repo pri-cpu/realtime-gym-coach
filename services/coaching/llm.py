@@ -29,3 +29,4 @@ class LLMCoach:
         self.history.append({"role": "assistant", "content": text})
 
         return text
+    
